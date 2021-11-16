@@ -35,13 +35,18 @@ L'élément HTML `<head>` fournit des informations générales (métadonnées) s
 La balise viewport permet au site web visité d'utiliser un affichage différent en fonction du navigateur utilisé (donc en fonction de l'appareil).
     
 #### 7. Pourquoi est-il recommandé d’avoir les styles dans un fichier à part
-C'est la méthode la plus pratique et la plus souple. Cela nous évite de tout mélanger dans un même fichier.
+C'est la méthode la plus pratique et la plus souple. Cela nous évite de tout mélanger dans un même fichier. 
+
+Cependant, le plus gros avantage de cette méthode est qu’on va pouvoir appliquer des styles à plusieurs pages HTML en même temps, d’un seul coup.
 
 #### 8. Expliquer le modèle de boîtes en CSS
+Le modèle de boîte CSS (Basic Box Model en anglais) est un module CSS qui définit les boîtes rectangulaires (y compris leurs zones de remplissage (padding) et de marges) qui sont générées pour disposer les éléments selon leur modèle de mise en forme visuelle.
 
 #### 9. Qu’est-ce qu’un sélecteur CSS
+Un sélecteur est une expression qui indique au navigateur à quelle entité HTML s'applique la règle CSS correspondante. Le ou les éléments ciblés par le sélecteur sont le sujet de ce sélecteur.
 
 
 #### 10. Qu’est-ce qu’une propriété CSS
+Une propriété CSS permet de définir un élément HTML. 
 
 #### 11. Liste des principaux liens utilisés pour s’aider à réaliser la maquette HTML/CSS
